@@ -7,6 +7,7 @@ import sys
 import logging
 import argparse
 
+
 try:
     from lib.cuckoo.common.logo import logo
     from lib.cuckoo.common.constants import CUCKOO_VERSION
